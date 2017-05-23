@@ -1,0 +1,20 @@
+package com.tools.model.base;
+
+public enum TipoScript {
+	
+	INDEFINIDO,	
+	UDF,	
+	EXCEPTIONS,
+	PROCEDURES,
+	TABLES,
+	VIEWS,
+	UNIQUE_CONTRAINS,
+	PRIMARY_KEYS,
+	FOREING_KEYS,
+	INDICES,
+	TRIGUERS,
+	STORED_PROCEDURE,
+	FIELDS_DESCRIPTIONS
+	
+
+}
